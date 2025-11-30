@@ -1,1 +1,14 @@
-El siguiente repositorio es la recolección de todo el trabajo realizado por la comunidad 5 en la realización de la "Practica/Proyecto Minreto" . Realizado por sus integrantes: Arana Acosta Shantal Vanessa. González Estrada Carlos Yael. Herrera Monroy Abraham Andre. Ortiz Santillán Hannia Maybelline. Rojas Muciño Cecilia. Instituto Politecnico Nacional. Escuela Superior de Computo.
+El siguiente repositorio es la recolección de todo el trabajo realizado por la comunidad 5 en la realización de la "Practica/Proyecto Minreto".
+Realizado por sus integrantes:
+Arana Acosta Shantal Vanessa.
+González Estrada Carlos Yael.
+Herrera Monroy Abraham Andre.
+Ortiz Santillán Hannia Maybelline.
+Rojas Muciño Cecilia.
+
+Instituto Politecnico Nacional.
+Escuela Superior de Computo.
+Ingenieria en Inteligencia Artificial.
+GRUPO: 4BM2
+Materia: Procesamiento Digital de Imagenes.
+Profesora: Maria Elena Cruz Meza.
